@@ -1,0 +1,37 @@
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid;
+}
+
+.carousel-item {
+  height: 350px;
+}
+
+.carousel-image-1 {
+  background: url("../img/coronavirus-statistics-on-screen.jpg");
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url("../img/concept-of-covid-19-in-red-background.jpg");
+  background-size: cover;
+}
+.color-arrow-red {
+  color: red;
+}
+.color-arrow-green {
+  color: green;
+}
+
+.country{
+  display: inline-block; 
+  margin: 10px;
+   box-shadow: 0 2px 2px #ccc;
+  width: 200px;
+}
